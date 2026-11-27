@@ -10,9 +10,9 @@
     "name": "ubuntu-24.04-arm"
   },
   {
-    "runner": "macos-13",
+    "runner": "macos-15-intel",
     "os": "macos",
-    "name": "macos-13"
+    "name": "macos-15-intel"
   },
   {
     "runner": "macos-15",
